@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "815542210787",
+    "firebase_url": "https://one-task-man-global-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "one-task-man-global",
+    "storage_bucket": "one-task-man-global.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815542210787:android:6b91c9f28e20bf2288b5d6",
+        "android_client_info": {
+          "package_name": "com.onetaskman.student"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815542210787-g7njtnj4gsbumhd1ebbfcruo6e4ebfp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onetaskman.student",
+            "certificate_hash": "49e8a67eef6ca9ac64f8c9e46042fbb58f2b6dec"
+          }
+        },
+        {
+          "client_id": "815542210787-4nip4m2fgif1004egen9hovjm4dhphgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXuMF37qrABoJl3PriDrQ2V1x5AFFbY_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815542210787-4nip4m2fgif1004egen9hovjm4dhphgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
